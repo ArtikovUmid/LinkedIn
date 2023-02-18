@@ -1,0 +1,6 @@
+@import "../fonts/Roboto/Roboto.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
